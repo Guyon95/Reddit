@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto+Condensed&display=swap');
+
+:root{
+    --red: #dd3038;
+    --orange: #e7613a;
+    --lightorange: #FDF4F2;
+    --black: #292929;
+    --white: #FFFFFF
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Condensed", sans-serif;
+    color: var(--black);
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Quicksand", sans-serif;
+}
